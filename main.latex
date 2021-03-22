@@ -1,0 +1,146 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish, mexico]{babel}
+\usepackage[backend=biber, style=authoryear-icomp]{biblatex}
+\addbibresource{biblio.bib}
+
+\usetheme[
+  titleformat=smallcaps,
+  sectionpage=progressbar,
+  numbering=fraction
+]{metropolis}
+
+%\usecolortheme{dolphin}
+
+\title{Experiencias Universitarias}
+\subtitle{Licenciado en Ciencias Computacionales}
+\author{Luis Alonso}
+\institute{luisalonso97@gmail.com}
+\date{24 de marzo 2021}
+
+\definecolor{softgreen}{RGB}{167, 175, 177}
+
+\setbeamercolor{progress bar}{%
+  use=alerted text,
+  fg=black,
+  bg=softgreen
+}
+
+\newcommand\Wider[2][3em]{
+  \makebox[\linewidth][c]{
+    \begin{minipage}{\dimexpr\textwidth+#1\relax}
+    \raggedright#2
+    \end{minipage}
+  }
+}
+
+\def\vfilll{\vskip 0pt plus 1filll minus 0pt }
+
+\renewcommand{\UrlFont}{\ttfamily\small}
+
+\begin{document}
+  \begin{frame}
+    \vfilll
+    \titlepage
+    \vfilll
+  \end{frame}
+
+  \begin{frame}{Experiecia y credenciales}
+    \Wider{ \pause
+      \begin{itemize}
+        \item Educaci{\'o}n \pause
+          \begin{itemize}
+          {
+          \footnotesize
+          \item Egresado Preparatoria No. 15 Florida (2014-2016)
+          \item Egresado de la Facultad de Ciencias F{\'i}sico Matem{\'a}ticas (2016 - 2020)
+          }
+        \end{itemize} \pause
+        \item Experiencia Laboral \pause
+          \begin{itemize}
+          {
+          \footnotesize
+          \item Desarrollador de plataformas de aprendizaje (2019).
+          \item Programador web backend (2020).
+          \item Business Intelligence / Machine Learning Engineer (2020 - hasta la fecha).
+          }
+        \end{itemize}
+      \end{itemize}
+    }
+  \end{frame}
+
+  \section{Las ciencias computaci{\'o}nales}
+
+  \begin{frame}{?`Qu{\'e} son las ciencias de la computaci{\'o}n?}
+    La disciplina de las ciencias de la computaci{\'o}n implica el estudio de todos los
+    fen{\'o}menos que rodean a las computadoras. No s{\'o}lo se ocupa de la maquinaria o el hardware
+    de las computadoras, sino tambi{\'e}n de los procedimientos y programas que les dan vida.
+    \parencite{masseyUni06}
+  \end{frame}
+
+  \begin{frame}{Perfil de aspirante}
+    \begin{itemize}
+      \item Caracter{\'i}sticas \pause
+      \begin{itemize}
+        \item Gusto por las ciencia y la tecnolog{\'i}a.                    \pause
+        \item Capacidad de resolver problemas.                              \pause
+        \item Capacidad de concentraci{\'o}n por largos periodos de tiempo. \pause
+      \end{itemize}
+    \end{itemize}
+
+    \url{https://www.uanl.mx/oferta/licenciado-en-ciencias-computacionales/}
+    \url{http://www.fcfm.uanl.mx/es/Computacion}
+  \end{frame}
+
+  \begin{frame}
+    ?`Que considero yo, son caracter{\'i}sticas de un perfil de alumno? \pause
+    \begin{itemize}
+      \item Autodidacta.           \pause
+      \item Perseverante.          \pause
+      \item Paciente.              \pause
+      \item Curioso.               \pause
+      \item Reflexivo.             \pause
+      \item Autosuficiente.        \pause
+      \item Saber jugar en equipo.
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}{?`Qu{\'e} no son las ciencias de la computaci{\'o}n?} \pause
+    \begin{itemize}
+      \item No es hackear (LSTI). \pause Pero puedes hackear.                     \pause
+      \item No es hacer videojuegos (LMAD). \pause Pero puedes hacer videojuegos. \pause
+      \item !`NO ES PROGRAMAR! \pause Pero puedes ser el mejor programador.
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}[standout]
+    Las ciencias de la computacion son resolver problemas y abstraer conceptos y procesos para
+    resolver dichos problemas.
+  \end{frame}
+
+  \begin{frame}[standout]
+    Las ciencias de la computaci{\'o}n, como lo dice su nombre, es una \textbf{ciencia}. Tiene mas
+    relaci{\'o}n con algo como la f{\'i}sica o qu{\'i}mica.
+
+    \url{https://news.ycombinator.com/item?id=23371530}
+  \end{frame}
+
+  \section{Lic. en Ciencias Computacionales en la UANL}
+
+  \begin{frame}{El programa}
+    \begin{itemize}
+      \item La carrera (a hoy 24/Mar/2021) consta de nueve semestres.
+      \item Se cumple un total de 200 creditos.
+      \item Se cursa en la Facultad de Ciencias F{\'i}sico Matem{\'a}ticas.
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}[standout]
+    !`Gracias!
+  \end{frame}
+
+  \begin{frame}
+    \printbibliography
+  \end{frame}
+\end{document}
