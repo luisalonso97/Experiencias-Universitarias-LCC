@@ -16,7 +16,7 @@
 \title{Experiencias Universitarias}
 \subtitle{Licenciado en Ciencias Computacionales}
 \author{Luis Alonso}
-\institute{luisalonso97@gmail.com}
+\institute{laalonso\_eu@protonmail.com}
 \date{24 de marzo 2021}
 
 \definecolor{softgreen}{RGB}{167, 175, 177}
@@ -133,6 +133,10 @@
       \item La carrera (a hoy 24/Mar/2021) consta de nueve semestres.
       \item Se cumple un total de 200 creditos.
       \item Se cursa en la Facultad de Ciencias F{\'i}sico Matem{\'a}ticas.
+      \item Plan de estudios:
+        \begin{itemize}
+          \item \url{http://www.fcfm.uanl.mx/es/Computacion}
+        \end{itemize}
     \end{itemize}
   \end{frame}
 
