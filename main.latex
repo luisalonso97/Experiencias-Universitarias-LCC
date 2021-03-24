@@ -139,78 +139,83 @@
     \end{itemize}
   \end{frame}
 
-  \begin{frame}{Mi experiencia}
+  \begin{frame}{Mi experiencia} \pause
     \begin{itemize}
-      \item Fant{\'a}stico lugar para estudiar... si sabes estudiar.
-      \item Las materias no abarcar{\'a}n todo el contenido. Tendr{\'a}s que buscar tu por tu cuenta.
-      \item Si, lo que se dice de la facultad es cierto... hasta cierto punto.
-      \item Social-Educaci{\'o}n-Salud
-      \item Tomate tu tiempo.
+      \item Fant{\'a}stico lugar para estudiar... si sabes estudiar.\pause
+      \item Las materias no abarcar{\'a}n todo el contenido. Tendr{\'a}s que buscar tu por tu cuenta.\pause
+      \item Si, lo que se dice de la facultad es cierto... hasta cierto punto.\pause
+      \item Social-Educaci{\'o}n-Salud\pause
+      \item Tomate tu tiempo.\pause
       \item ?`Clases en linea?
     \end{itemize}
   \end{frame}
 
-  \begin{frame}{Areas de especializaci{\'o}n}
+  \begin{frame}{Areas de especializaci{\'o}n} \pause
     Gran campo laboral, hay mucha demanda para profesionales de esta carrera pero tambien hay mucha
-    competencia.
+    competencia. \pause
+    \begin{columns}
+      \column{0.5\textwidth}
+      \begin{itemize}
+        \item Ingenier{\'i}a de Software \pause
+          \begin{itemize}
+            \item Desarrollo web.
+            \item Desarrollo de herramientas internas.
+            \item Desarrollo de aplicaciones de negocio.
+          \end{itemize} \pause
+        \item Informatica / Redes \pause
+          \begin{itemize}
+            \item Redes.
+            \item Soporte y administraci{\'o}n de herramientas empresariales.
+          \end{itemize} \pause
+      \end{itemize}
+      \column{0.5\textwidth}
+      \begin{itemize}
+        \item Administrador de proyectos \pause
+          \begin{itemize}
+            \item Proyect Manager.
+            \item Product Manager.
+            \item Scrum Master.
+          \end{itemize} \pause
+        \item Data Science / BI \pause
+          \begin{itemize}
+              \item BI engineer.
+              \item ML engineer.
+              \item AI engineer.
+          \end{itemize}
+      \end{itemize}
+    \end{columns}
+  \end{frame}
+
+  \begin{frame}{Areas de especializaci{\'o}n}
     \begin{itemize}
-      \item Ingenieria de Software.
-        \begin{itemize}
-          \item Desarrollo web.
-          \item Desarrollo de herramientas internas.
-          \item Desarrollo de aplicaciones de negocio.
-        \end{itemize}
-      \item Informatica / Redes.
-        \begin{itemize}
-          \item Redes.
-          \item Soporte y administraci{\'o}n de herramientas empresariales.
-        \end{itemize}
-      \item Seguridad en tecnolog{\'i}as de la informaci{\'o}n.
-      \item Desarrollo de videojuegos.
-      \item Administrador de proyectos.
-        \begin{itemize}
-          \item Proyect Manager.
-          \item Product Manager.
-          \item Scrum Master.
-        \end{itemize}
-      \item Administrado de bases de datos
-      \item Ciencia de datos / Business intelligence
-        \begin{itemize}
-          \item Cient{\'i}fico de datos.
-            \item Analista de datos.
-            \item Ingeniero de datos.
-            \item Business intelligence engineer.
-            \item Machine Learning engineer.
-            \item AI engineer.
-        \end{itemize}
+      \item Seguridad en tecnolog{\'i}as de la informaci{\'o}n \pause
+      \item Desarrollo de videojuegos \pause
+      \item Administrador de bases de datos \pause
       \item Comput{\'o}logo (cientif{\'i}co de computaci{\'o}n)
     \end{itemize}
   \end{frame}
 
   \section{Pensamientos y consejos finales}
 
-  \begin{frame}{?`De verdad quieres tomar esta carrera?}
+  \begin{frame}
     \begin{itemize}
-      \item Ciencia... piensalo.
-      \item Carrera demandante.
-      \item Carrera que no es dif{\'i}cil, pero si laboriosa.
-      \item ?`Tienes la capacidad de estar siempre aprendiendo?
+      \item No compren libros, no lo valen. \pause
+      \item Mantenganse actualizados. \pause
+      \item Consiganse buenos compa{\~n}eros. \pause
+      \item Aprendan Ingl{\'e}s. \pause
+      \item No se necesita una gran computadora para empezar.
     \end{itemize}
 
-    Si esta presentaci{\'o}n no te desmotivo...
   \end{frame}
 
   \begin{frame}[standout]
     Felicidades, tienes el perfil de un LCC
   \end{frame}
 
-  \begin{frame}{Consejos}
-    \begin{frame}
-    \end{frame}
-  \end{frame}
-
   \begin{frame}[standout]
     !`Gracias!
+
+    ?`Preguntas?
   \end{frame}
 
   \begin{frame}
