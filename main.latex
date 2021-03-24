@@ -1,4 +1,5 @@
 \documentclass{beamer}
+% Compile with [handout] to produce friendly print and shareable format.
 
 \usepackage[utf8]{inputenc}
 \usepackage[spanish, mexico]{babel}
@@ -11,8 +12,6 @@
   numbering=fraction
 ]{metropolis}
 
-%\usecolortheme{dolphin}
-
 \title{Experiencias Universitarias}
 \subtitle{Licenciado en Ciencias Computacionales}
 \author{Luis Alonso}
@@ -21,7 +20,7 @@
 
 \definecolor{softgreen}{RGB}{167, 175, 177}
 
-\setbeamercolor{progress bar}{%
+\setbeamercolor{progress bar}{
   use=alerted text,
   fg=black,
   bg=softgreen
@@ -115,7 +114,7 @@
   \end{frame}
 
   \begin{frame}[standout]
-    Las ciencias de la computacion son resolver problemas y abstraer conceptos y procesos para
+    Las ciencias de la computaci{\'o}n son resolver problemas y abstraer conceptos y procesos para
     resolver dichos problemas.
   \end{frame}
 
@@ -140,6 +139,76 @@
     \end{itemize}
   \end{frame}
 
+  \begin{frame}{Mi experiencia}
+    \begin{itemize}
+      \item Fant{\'a}stico lugar para estudiar... si sabes estudiar.
+      \item Las materias no abarcar{\'a}n todo el contenido. Tendr{\'a}s que buscar tu por tu cuenta.
+      \item Si, lo que se dice de la facultad es cierto... hasta cierto punto.
+      \item Social-Educaci{\'o}n-Salud
+      \item Tomate tu tiempo.
+      \item ?`Clases en linea?
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}{Areas de especializaci{\'o}n}
+    Gran campo laboral, hay mucha demanda para profesionales de esta carrera pero tambien hay mucha
+    competencia.
+    \begin{itemize}
+      \item Ingenieria de Software.
+        \begin{itemize}
+          \item Desarrollo web.
+          \item Desarrollo de herramientas internas.
+          \item Desarrollo de aplicaciones de negocio.
+        \end{itemize}
+      \item Informatica / Redes.
+        \begin{itemize}
+          \item Redes.
+          \item Soporte y administraci{\'o}n de herramientas empresariales.
+        \end{itemize}
+      \item Seguridad en tecnolog{\'i}as de la informaci{\'o}n.
+      \item Desarrollo de videojuegos.
+      \item Administrador de proyectos.
+        \begin{itemize}
+          \item Proyect Manager.
+          \item Product Manager.
+          \item Scrum Master.
+        \end{itemize}
+      \item Administrado de bases de datos
+      \item Ciencia de datos / Business intelligence
+        \begin{itemize}
+          \item Cient{\'i}fico de datos.
+            \item Analista de datos.
+            \item Ingeniero de datos.
+            \item Business intelligence engineer.
+            \item Machine Learning engineer.
+            \item AI engineer.
+        \end{itemize}
+      \item Comput{\'o}logo (cientif{\'i}co de computaci{\'o}n)
+    \end{itemize}
+  \end{frame}
+
+  \section{Pensamientos y consejos finales}
+
+  \begin{frame}{?`De verdad quieres tomar esta carrera?}
+    \begin{itemize}
+      \item Ciencia... piensalo.
+      \item Carrera demandante.
+      \item Carrera que no es dif{\'i}cil, pero si laboriosa.
+      \item ?`Tienes la capacidad de estar siempre aprendiendo?
+    \end{itemize}
+
+    Si esta presentaci{\'o}n no te desmotivo...
+  \end{frame}
+
+  \begin{frame}[standout]
+    Felicidades, tienes el perfil de un LCC
+  \end{frame}
+
+  \begin{frame}{Consejos}
+    \begin{frame}
+    \end{frame}
+  \end{frame}
+
   \begin{frame}[standout]
     !`Gracias!
   \end{frame}
@@ -148,3 +217,4 @@
     \printbibliography
   \end{frame}
 \end{document}
+
